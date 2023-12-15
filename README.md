@@ -1,2 +1,5 @@
 # fari
 FARI
+
+
+a = a
